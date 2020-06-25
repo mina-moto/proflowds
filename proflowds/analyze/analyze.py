@@ -4,10 +4,8 @@ Module for data analyze.
 
 import pandas as pd
 import seaborn as sns
-import numpy as np
 import matplotlib.pyplot as plt
 import os
-import math
 from typing import Any
 
 
